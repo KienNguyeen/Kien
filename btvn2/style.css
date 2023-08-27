@@ -1,0 +1,12 @@
+.type {
+    width: 30px;
+    height: 400px;
+}
+
+.div {
+    text-align: center;
+}
+
+.hide {
+    display: none;
+}

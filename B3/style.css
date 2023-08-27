@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body {
+    background-color: #d9d9d9;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.parent {
+    position: relative;
+}
+
+.input {
+    outline: none;
+    border: none;
+    border-radius: 100px;
+    width: 40px;
+    transition: width 0.3s ease;
+}
